@@ -57,7 +57,11 @@
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<div class="submitResult">
+<button type="submit"  id="saveResume" class="result">save</button>
+<button type="submit"  id="download" class="result">download</button>
 
+</div>
 	
 </div>
 

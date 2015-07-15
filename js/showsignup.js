@@ -1,31 +1,27 @@
 $(document).ready(function  () {
 
 	$("#signUp").click(function  () {
-        
-          //  $("body").fadeOut(500);
-        	//window.open("signUp.php","_parent","width=500, height=300,left=100,top=50");
-        	
+    
        var diolog =  	document.getElementById('signDiolog');
 
-      
-       	// body...
-
-       	 diolog.showModal();
+    	 diolog.showModal();
        
-        
-        //	document.getElementById('signDiolog').showModal();
-        	console.log("hello");
+       console.log("hello");
        
 		
 		// body...
 	});
+
+
+   $('#close').click(function  () {
+    
+    var diolog = document.getElementById('signDiolog');
+
+    diolog.close();
+    console.log("hide");
+
+    // body...
+  });
 	
 });
-
-// $(document).ready(function  () {
-//  $("#signUp").before("<p>new here signUp here ! </p>");
-//  	// body...
-
-// });
-
 

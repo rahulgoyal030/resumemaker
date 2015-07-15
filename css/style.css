@@ -110,3 +110,25 @@ body
 	position: absolute;
 	left: 80px;
 }
+
+.result{
+	width: 160px;
+	height: 40px;
+	background-color: rgba(53, 186, 132, 0.75);
+    color: white;
+	font-size: 20px;
+	font-weight: 40;
+	padding: 2px;
+	margin-top: 10px;
+	margin-left: 40px;
+
+
+}
+#saveResume{
+	position: absolute;
+	left: 140px;
+}
+#download{
+	position: absolute;
+	left: 340px;
+}

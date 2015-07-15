@@ -44,7 +44,7 @@
     <div class="body"></div>
 		<doiv class="grad"></div>
 		<div class="header">
-			<div><span>Ce2k13</span></div>
+			<div><span>ResumeMaker</span></div>
 		</div>
 		<br>
 		<form class="login"  method="post" action="login.php">  <!--     script for the  login page  -->   
@@ -72,8 +72,13 @@
       <input type="password" name="pass1"  id="pass1" placeholder="re-enter password" required>
       <div class="div1 id="reText"> </div>
       <button type="submit" name="button1" class="login login-submit"  id="button1">signUp</button>
+
+
+
      </form>
+     <button type="submit" name="close" id="close">close</button>
      </div> 
+
      </dialog>
 
 

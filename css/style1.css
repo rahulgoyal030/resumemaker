@@ -57,6 +57,8 @@ body{
 
 .header div span{
 	color: #5379fa !important;
+	
+
 }
 
 .login{
@@ -133,13 +135,7 @@ body{
 	outline: none;
 }
 
-::-webkit-input-placeholder{
-   color: rgba(173, 222, 239,0.7);
-}
 
-::-moz-input-placeholder{
-   color: rgba(173, 222, 239,0.7);
-}
 
 #signUp{
 	position: fixed;
@@ -186,4 +182,12 @@ body{
 	opacity: 1px;
 	-webkit-filter: blur(0px);
 
+}
+
+::-webkit-input-placeholder{
+   color: rgba(173, 222, 239,0.7);
+}
+
+::-moz-input-placeholder{
+   color: rgba(173, 222, 239,0.7);
 }
