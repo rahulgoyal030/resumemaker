@@ -17,12 +17,15 @@
 <input type="number" id="phone" name="phone"  placeholder="phone-no"  required> <br>
 <input type="date" name="dob" id="dob" placeholder="birth date"  required>
 <input type="text" id="college" name="college"  placeholder="college name"  autocomplete="on" required><br>
-
 </div>
 
 
+<p id="objectiveHeading">objective :- </p>
+<div class="objective">
+<textarea rows="6" cols="85" name="objective" id="objectiveText" placeholder=" write your objective here ">
+</textarea>
+</div>
 
-	
 </div>
 	
 

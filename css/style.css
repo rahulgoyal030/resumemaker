@@ -44,7 +44,22 @@ body
 	margin-top: 20px;
 
 }
+.objective{
+	position: absolute;
+	left: 85px;
+}
+#objectiveHeading{
+	color: rgba(53, 186, 132, 0.75);
+	font-size: 20px;
+	margin-left: 10px;
+
+}
+#objectiveText
+{
+	border: 2px solid rgba(53, 186, 132, 0.75);
+}
 
 #degree,#phone,#college{
 	margin-left:  40px;
 }
+
