@@ -4,6 +4,7 @@ body
 }
 
 
+
 #space
 {
 
@@ -13,7 +14,7 @@ body
 	position: absolute;
     
 	width: 800px;
-	height: 1200px;
+	height: 1700px;
 	left: 257px;
 
 	border: .2px solid black;
@@ -102,4 +103,10 @@ body
 	padding: 2px;
 	margin-top: 10px;
 	margin-left: 20px;
+}
+
+.photo
+{
+	position: absolute;
+	left: 80px;
 }

@@ -1,62 +1,100 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<title>resume maker</title>
-
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-</head>
-<body>
-<div id="space">
-<h1 id="heading">ResumeMaker </h1>
-
-<div class="data">
-<div class="info">
-<input type="text" id="name" name="name"  placeholder="your name"  autocomplete="on" required>
-<input type="text" id="degree" name="degree"  placeholder="qualification   e.g B.tech cse"  autocomplete="on" required> <br>
-<input type="email" id="email" name="email"  placeholder="your email-id"  autocomplete="on" required>
-<input type="number" id="phone" name="phone"  placeholder="phone-no"  required> <br>
-<input type="date" name="dob" id="dob" placeholder="birth date"  required>
-<input type="text" id="college" name="college"  placeholder="college name"  autocomplete="on" required><br>
-</div><br>
+<html >
+  <head>
+    <meta charset="UTF-8">
 
 
-<p class="infoHeading">objective :- </p>
-<div class="infoArea">
-<textarea rows="6" cols="85" name="objective" id="objectiveText" placeholder=" write your objective here ">
-</textarea>
+    <title> Login Form</title>
+    
+    
+     <link rel="stylesheet" href="css/style1.css">
+    <link rel='stylesheet prefetch' href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css'>
+
+        <link rel="stylesheet" href="css/signup.css">
+       <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"> ></script> 
+       <script src="js/signup.js"></script>
+  </head>
+
+  <body>
+   
+    <script>
+ 
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1450668335251366',
+      xfbml      : true,
+      version    : 'v2.3'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+
+
+
+
+    <div class="body"></div>
+		<doiv class="grad"></div>
+		<div class="header">
+			<div><span>Ce2k13</span></div>
+		</div>
+		<br>
+		<form class="login"  method="post" action="login.php">  <!--     script for the  login page  -->   
+ 				<input type="text" placeholder="username" name="user"><br>
+				<input type="password" id="password" placeholder="password" name="password"><br>
+				
+				<button type="submit"  id="button">Login</button>
+		</form>
+
+     <p id="newP">SignUp here ! </p>
+     <button type="submit"  id="signUp">signUp</button>       
+     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+     <script src="js/showsignup.js"></script>
+
+     
+
+
+     <dialog id="signDiolog" class="dialog">    <!--     script for the  signup page  -->   
+     <div class="login-card">
+     <h1>SignUP</h1><br>
+      <form method="post"  action="signupAction.php">
+      <input type="text" name="user" placeholder="Username" required>
+      <input type="email" name="email" autocomplete="on" placeholder="email-id" required><br>
+      <input type="password" name="pass" id="pass" placeholder="Password" required>
+      <input type="password" name="pass1"  id="pass1" placeholder="re-enter password" required>
+      <div class="div1 id="reText"> </div>
+      <button type="submit" name="button1" class="login login-submit"  id="button1">signUp</button>
+     </form>
+     </div> 
+     </dialog>
+
+
+
+ 
+<div 
+id="fbLike"
+class="fb-like" 
+data-href="https://www.facebook.com/rahulgoyal031" 
+data-width="140" 
+data-layout="standard" 
+data-action="like" 
+data-show-faces="true" 
+data-share="true">
 </div>
-<br><br><br><br><br>
 
-<p class="infoHeading">Skill Set :-</p>
-<div class="infoArea">
-<textarea rows="8" cols="85" name="skill" id="skillText" placeholder=" write your skills here ">
-</textarea>
-</div>
-<br><br><br><br><br><br><br>
 
-<p class="infoHeading">Areas of interest :- </p>
-<div class="infoArea">
-<textarea rows="6" cols="85" name="interest" id="interestText" placeholder=" write your areas of interests here ">
-</textarea>
-</div>
-<br><br><br><br><br><br>
-<p class="infoHeading">Projects :-</p>
-<div class="infoArea">
-<input type="text" class="projectName" name="project"  placeholder="project heading"   required>
-<textarea rows="8" cols="95" name="projectDetail" class="projectDetail" placeholder=" write projects details here  ">
-</textarea>
-<div class="newProjects"></div>
-<label class="newProjectHeading">add a new project  :-</label> 
-<button type="submit"  id="addNew">new project</button>
-</div>
 
-	
-</div>
-
-</div>
-	
-
-</div>
-
-</body>
+    
+    
+    
+    
+  </body>
 </html>
