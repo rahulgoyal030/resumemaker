@@ -21,3 +21,30 @@ body
 	
 	background-color: white;
 }
+#heading
+{
+	color: rgb(0, 153, 255);
+	font-size: 40px;
+	font-family:  'Exo', sans-serif;
+	text-align:  center;
+	margin-top: 5px;
+}
+
+.info input[type]{
+    width: 280px;
+	height: 30px;
+	border: 2px solid rgba(53, 186, 132, 0.75);
+	border-radius: 1px;
+	color: black;
+	font-family: 'Exo', sans-serif;
+	font-size: 12px;
+	font-weight: 200;
+	padding: 2px;
+	margin-left: 85px;
+	margin-top: 20px;
+
+}
+
+#degree,#phone,#college{
+	margin-left:  40px;
+}
