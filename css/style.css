@@ -1,0 +1,23 @@
+body
+{
+   background-color: 	rgba(53, 186, 132, 0.75);
+}
+
+
+#space
+{
+
+	
+	padding: 0;
+	
+	position: absolute;
+    
+	width: 800px;
+	height: 900px;
+	left: 257px;
+
+	border: .2px solid black;
+
+	
+	background-color: white;
+}
