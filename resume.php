@@ -16,9 +16,7 @@
 <form class="data" ng-app="myApp" ng-controller="control" name="myForm" novalidate>
 <div class="info">
 <input type="text" id="name" name="name"  placeholder="your name"  autocomplete="on" ng-model="name"  required>
-<span style="color:red" ng-show="myForm.name.$dirty && myForm.name.$invalid">
- <span ng-show="myForm.name.$error.required"></span>
- </span>
+
 <input type="text" id="degree" name="degree"  placeholder="qualification   e.g B.tech cse"  autocomplete="on" required> <br>
 <input type="email" id="email" name="email"  placeholder="your email-id"  autocomplete="on" required>
 <input type="number" id="phone" name="phone"  placeholder="phone-no"  required> <br>

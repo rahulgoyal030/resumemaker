@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "college";
+$dbname = "resumemaker";
 session_start();
 
 // Create connection
@@ -26,7 +26,7 @@ if (mysqli_num_rows($result) > 0) {
           // echo '<p>'. $_SESSION["sesName"] .'<p>';
 
 
-          header('Location: /myWeb/news.php');   // change this according to page
+          header('Location: /resumemaker/resume.php');   // change this according to page
         }
 
     }

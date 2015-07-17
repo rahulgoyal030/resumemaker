@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "college";
+$dbname = "resumemaker";
 session_start();
 
 // Create connection
@@ -14,10 +14,10 @@ if (!$conn) {
 
 
 
-$sql = "INSERT INTO `signup`(`id`, `username`, `email`, `password`) VALUES (NULL,'$_POST[user]','$_POST[email]','$_POST[pass]')";
+$sql = "INSERT INTO `signup`(`id`, `username`, `email`, `password`) VALUES (NULL,'$_POST[username1]','$_POST[email]','$_POST[pass]')";
 mysqli_query($conn, $sql);
 
- header('Location: /myWeb/index.html'); 
+ header('Location: /resumemaker/index.php'); 
 
 
 

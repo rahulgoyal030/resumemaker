@@ -47,7 +47,7 @@
 			<div><span>ResumeMaker</span></div>
 		</div>
 		<br>
-		<form class="login"  method="post" action="login.php">  <!--     script for the  login page  -->   
+		<form class="login"  method="post" action="loginaction.php">  <!--     script for the  login page  -->   
  				<input type="text" placeholder="username" name="user"><br>
 				<input type="password" id="password" placeholder="password" name="password"><br>
 				
@@ -65,12 +65,12 @@
      <dialog id="signDiolog" class="dialog">    <!--     script for the  signup page  -->   
      <div class="login-card">
      <h1>SignUP</h1><br>
-      <form method="post"  action="signupAction.php">
-      <input type="text" name="user" placeholder="Username" required>
+      <form method="post"  action="signupaction.php">
+      <input type="text" name="username1" placeholder="Username" required>
       <input type="email" name="email" autocomplete="on" placeholder="email-id" required><br>
       <input type="password" name="pass" id="pass" placeholder="Password" required>
       <input type="password" name="pass1"  id="pass1" placeholder="re-enter password" required>
-      <div class="div1 id="reText"> </div>
+     
       <button type="submit" name="button1" class="login login-submit"  id="button1">signUp</button>
 
 
