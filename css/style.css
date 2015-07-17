@@ -1,6 +1,13 @@
+/** {
+    padding: 0;
+    margin: 0;
+}
+*/
 body
 {
    background-color: 	rgba(53, 186, 132, 0.75);
+   padding: 0;
+    margin: 0;
 }
 
 
@@ -9,17 +16,17 @@ body
 {
 
 	
-	padding: 0;
+
 	
 	position: absolute;
     
 	width: 800px;
-	height: 1700px;
+	height: auto;
 	left: 257px;
 
 	border: .2px solid black;
 
-	
+	margin-top: 0px;
 	background-color: white;
 }
 #heading
@@ -120,7 +127,7 @@ body
 	font-size: 20px;
 	font-weight: 40;
 	padding: 2px;
-	margin-top: 10px;
+	
 	margin-left: 40px;
 
 
@@ -137,4 +144,7 @@ body
 .newProjectMargin
 {
 	margin-left: 85px;
+}
+input.ng-invalid {
+  border: 1px solid red;
 }

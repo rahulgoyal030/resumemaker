@@ -5,15 +5,20 @@
 
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+
 	<script type="text/javascript" src="js/newProject.js"></script>
 </head>
 <body>
-<div id="space">
+<div id="space" >
 <h1 id="heading">ResumeMaker </h1>
-
-<div class="data">
+<div>
+<form class="data" ng-app="myApp" ng-controller="control" name="myForm" novalidate>
 <div class="info">
-<input type="text" id="name" name="name"  placeholder="your name"  autocomplete="on" required>
+<input type="text" id="name" name="name"  placeholder="your name"  autocomplete="on" ng-model="name"  required>
+<span style="color:red" ng-show="myForm.name.$dirty && myForm.name.$invalid">
+ <span ng-show="myForm.name.$error.required"></span>
+ </span>
 <input type="text" id="degree" name="degree"  placeholder="qualification   e.g B.tech cse"  autocomplete="on" required> <br>
 <input type="email" id="email" name="email"  placeholder="your email-id"  autocomplete="on" required>
 <input type="number" id="phone" name="phone"  placeholder="phone-no"  required> <br>
@@ -57,19 +62,23 @@
 <div class="newProjects"></div>
 <button type="submit"  id="addNew">add project</button>
 </div>
-
+<br><br><br><br> <br>
 <div class="submitResult">
 <button type="submit"  id="saveResume" class="result">save</button>
 <button type="submit"  id="download" class="result">download</button>
-
 </div>
+
+<br><br><br>
 	
 
 
+</form>
 </div>
 	
 
 </div>
+<script type="text/javascript" src="js/myApp.js"></script>
+<script type="text/javascript" src="js/controllers/controller.js"></script>
 
 </body>
 </html>
