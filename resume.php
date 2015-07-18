@@ -14,7 +14,7 @@
 <div id="space" >
 <h1 id="heading">ResumeMaker </h1>
 <div>
-<form class="data" ng-app="myApp" ng-controller="control" name="myForm" method="post"   novalidate>
+<form class="data" ng-app="myApp" ng-controller="control" name="myForm" method="post"  action="saveResume.php" enctype="multipart/form-data" novalidate>
 <div class="info">
 <input type="text" id="name" name="name"  placeholder="your name"  autocomplete="on" ng-model="name"  required>
 
@@ -26,7 +26,7 @@
 </div><br>
 <div class="photo">
 <label class="infoHeading"> upload your photo here   </label>
-<input type="file" id="pic">
+<input type="file" name="profile" id="pic">
 	
 </div>
 
