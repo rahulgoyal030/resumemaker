@@ -4,7 +4,8 @@ $(document).ready(function  () {
   $("#saveResume").click(function(event){
   	event.preventDefault();
 
-  	window.location = "js/saveResume.php";
+  	window.location = "saveResume.php";
+  	console.log("dsd");
 
 
     
@@ -12,7 +13,7 @@ $(document).ready(function  () {
 
    $("#download").click(function(event){
    	event.preventDefault();
-   	window.location = "js/download.php";
+   	window.location = "download.php";
 
 
     

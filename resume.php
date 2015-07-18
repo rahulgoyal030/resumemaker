@@ -8,6 +8,7 @@
 	<script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
 
 	<script type="text/javascript" src="js/newProject.js"></script>
+	<script type="text/javascript" src="js/submit.js"></script>
 </head>
 <body>
 <div id="space" >
