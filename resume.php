@@ -13,7 +13,7 @@
 <div id="space" >
 <h1 id="heading">ResumeMaker </h1>
 <div>
-<form class="data" ng-app="myApp" ng-controller="control" name="myForm" novalidate>
+<form class="data" ng-app="myApp" ng-controller="control" name="myForm" method="post"   novalidate>
 <div class="info">
 <input type="text" id="name" name="name"  placeholder="your name"  autocomplete="on" ng-model="name"  required>
 
