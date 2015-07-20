@@ -66,7 +66,7 @@ $max = 25;
 
 //Set Row Height
 $row_height = 6;
-$row = mysql_fetch_array($result);
+$row = mysqli_fetch_array($result);
 if(is_null($row))
    {
       $pdf->Cell(20, 32, 'NAdjd', 3, 2, 'L', 1);
@@ -77,13 +77,13 @@ if(is_null($row))
              $pdf->Cell(10, 32, '00', 3, 2, 'L', 1);   // to check row value  // here is error
    
 }
-while($row = mysql_fetch_array($result))
+while($row = mysqli_fetch_array($result))
 {
-  if(!is_null($row))
-   {
-      $pdf->Cell(100, 12, 'NAdjd', 1, 0, 'L', 1);
+  // if(!is_null($row))
+  //  {
+  //     $pdf->Cell(100, 12, 'NAdjd', 1, 0, 'L', 1);
  
-   }
+  //  }
    
     //If the current row is the last one, create new page and print column title
     if ($i == $max)
