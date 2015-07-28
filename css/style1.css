@@ -41,7 +41,7 @@ body{
 .header{
 	position: absolute;
 	top: calc(50% - 35px);
-	left: calc(50% - 200px);
+	left: calc(50% - 300px);
 	z-index: 2;
 	-webkit-filter: blur(false);
 }

@@ -6,6 +6,7 @@ $(document).ready(function  () {
 
     	 diolog.showModal();
        
+       
        console.log("hello");
        
 		

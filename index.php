@@ -25,6 +25,7 @@
         <link rel="stylesheet" href="css/signup.css">
        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"> ></script> 
        <script src="js/signup.js"></script>
+       <script type="text/javascript" src="js/usernamecheck.js" ></script>
   </head>
 
   <body>
@@ -79,7 +80,8 @@
      <h1>SignUP</h1>
       <form method="post"  action="signupaction.php"> 
       
-      <input type="text" name="username1" placeholder="Username" required><br>
+      <input type="text" name="username1" placeholder="Username" id="username1" required>
+      <br>
       <input type="email" name="email" autocomplete="on" placeholder="email-id" required><br>
       <input type="password" name="pass" id="pass" placeholder="Password" required>
       <input type="password" name="pass1"  id="pass1" placeholder="re-enter password" required>
@@ -101,7 +103,7 @@
 id="fbLike"
 class="fb-like" 
 data-href="https://www.facebook.com/rahulgoyal031" 
-data-width="140" 
+data-width="180" 
 data-layout="standard" 
 data-action="like" 
 data-show-faces="true" 

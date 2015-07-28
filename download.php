@@ -5,13 +5,14 @@ $username = "root";
 $password = "";
 $dbname = "resumemaker";
 
-
+session_start();
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 // Check connection
 if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
+session_start();
 
 
 define('FPDF_FONTPATH', 'font/');
@@ -49,7 +50,7 @@ $y_axis = $y_axis + $row_height;
 //Select the Products you want to show in your PDF file
 //$result=mysql_query($conn,'SELECT * FROM `resume` WHERE `id`=15 ');
 
-$sql = "SELECT * FROM resume";
+$sql = "SELECT * FROM resume where name ";
 $result = mysqli_query($conn, $sql);
 
 
@@ -74,7 +75,7 @@ if(is_null($row))
    }
 
    if (mysqli_num_rows($row) ==0) {
-             $pdf->Cell(10, 32, '00', 3, 2, 'L', 1);   // to check row value  // here is error
+           //  $pdf->Cell(10, 32, '00', 3, 2, 'L', 1);   // to check row value  // here is error
    
 }
 while($row = mysqli_fetch_array($result))
@@ -98,18 +99,19 @@ while($row = mysqli_fetch_array($result))
         // $pdf->Cell(30, 6, 'PRICE', 1, 0, 'R', 1);
         
         //Go to next row
-        $y_axis = $y_axis + $row_height;
+       $y_axis = $y_axis + $row_height;
         
         //Set $i variable to 0 (first row)
         $i = 0;
     }
    // echo "$row[name]";
-    $name = $row["name"];
+    $name = $row['name'];
     
    // $y_axis = $y_axis + $row_height;
     $pdf->SetY($y_axis);
-    $pdf->SetX(25);
-    $pdf->Cell(30, 6, $name, 0, 0, 'L', 1);
+    $pdf->SetX(180);
+    $pdf->SetY($y_axis_initial);
+    $pdf->Cell(30, 6, $name, 0, 0, 'L', 0);
     
 
     //Go to next row
