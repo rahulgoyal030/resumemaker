@@ -17,7 +17,7 @@ if (!$conn) {
 $sql = "INSERT INTO `signup`(`id`, `username`, `email`, `password`) VALUES (NULL,'$_POST[username1]','$_POST[email]','$_POST[pass]')";
 mysqli_query($conn, $sql);
 
- header('Location: /resumemaker/index.php'); 
+ header('Location: /resumemaker/resume.php'); 
 
 
 

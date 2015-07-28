@@ -1,11 +1,13 @@
 <?php
+
+session_start();
+
+// Create connection
 $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "resumemaker";
-session_start();
 
-// Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 // Check connection
 if (!$conn) {

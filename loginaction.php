@@ -23,13 +23,19 @@ if (mysqli_num_rows($result) > 0) {
         // echo "id: " . $row["name"]. " - Name: " . $row["password"]. "   welcome to the database " ;
            $_SESSION["sesName"]= $_POST["user"];
 
-          // echo '<p>'. $_SESSION["sesName"] .'<p>';
+           //echo '<p>'. $_SESSION["sesName"] .'<p>';
 
 
-          header('Location: /resumemaker/resume.php');   // change this according to page
+          header('Location: resume.php');   // change this according to page
         }
+       
+
+
 
     }
+    
+    header('Location: index.php'); 
+
 } else {
     echo "0 results";
 }

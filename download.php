@@ -40,9 +40,9 @@ $pdf->SetFillColor(232, 232, 232);
 $pdf->SetFont('Arial', 'B', 12);
 $pdf->SetY($y_axis_initial);
 $pdf->SetX(25);
-$pdf->Cell(30, 6, 'CODE', 1, 0, 'L', 1);
-$pdf->Cell(100, 6, 'NAME', 1, 0, 'L', 1);
-$pdf->Cell(30, 6, 'PRICE', 1, 0, 'R', 1);
+$pdf->Cell(30, 6, 'NAME :', 0, 0, 'L', 0);
+//$pdf->Cell(100, 6, 'email', 1, 0, 'L', 1);
+//$pdf->Cell(30, 6, 'phone', 1, 0, 'R', 1);
 
 $y_axis = $y_axis + $row_height;
 
@@ -53,11 +53,11 @@ $sql = "SELECT * FROM resume";
 $result = mysqli_query($conn, $sql);
 
 
-if(is_null($result))
-{
-   $pdf->Cell(10, 6, 'NAdjdnjfjkdnME', 1, 5, 'L', 1);   // to check reult value
+// if(is_null($result))
+// {
+//    $pdf->Cell(10, 6, 'NAdjdnjfjkdnME', 1, 5, 'L', 1);   // to check reult value
    
-}
+// }
 //initialize counter
 $i = 0;
 
@@ -104,15 +104,13 @@ while($row = mysqli_fetch_array($result))
         $i = 0;
     }
    // echo "$row[name]";
-    $code = $row["name"];
-    $price = $row["email"];
-    $name = $row["phone"];
-
+    $name = $row["name"];
+    
+   // $y_axis = $y_axis + $row_height;
     $pdf->SetY($y_axis);
     $pdf->SetX(25);
-    $pdf->Cell(30, 6, $code, 1, 0, 'L', 1);
-    $pdf->Cell(100, 6, $name, 1, 0, 'L', 1);
-    $pdf->Cell(30, 6, $price, 1, 0, 'R', 1);
+    $pdf->Cell(30, 6, $name, 0, 0, 'L', 1);
+    
 
     //Go to next row
     $y_axis = $y_axis + $row_height;

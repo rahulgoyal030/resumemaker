@@ -1,3 +1,15 @@
+<?php
+  
+  session_start();
+  if(isset($_SESSION['sesName']))
+  {
+    header('location: resume.php');
+  }
+  
+
+
+?>
+
 <!DOCTYPE html>
 <html >
   <head>
@@ -64,9 +76,10 @@
 
      <dialog id="signDiolog" class="dialog">    <!--     script for the  signup page  -->   
      <div class="login-card">
-     <h1>SignUP</h1><br>
-      <form method="post"  action="signupaction.php">
-      <input type="text" name="username1" placeholder="Username" required>
+     <h1>SignUP</h1>
+      <form method="post"  action="signupaction.php"> 
+      
+      <input type="text" name="username1" placeholder="Username" required><br>
       <input type="email" name="email" autocomplete="on" placeholder="email-id" required><br>
       <input type="password" name="pass" id="pass" placeholder="Password" required>
       <input type="password" name="pass1"  id="pass1" placeholder="re-enter password" required>

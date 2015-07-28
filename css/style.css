@@ -113,6 +113,16 @@ body
 	left: 70px;
 }
 
+#logout{
+
+	position: absolute;
+	background-color: white;
+	width: 120px;
+	height: 30px;
+	right: 30px;
+	top: 20px;
+}
+
 .photo
 {
 	position: absolute;

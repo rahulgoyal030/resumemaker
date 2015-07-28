@@ -1,11 +1,15 @@
 <?php
-	$serverName="localhost";
-	$username="root";
-	$password="";
-	$conn=mysqli_connect($serverName,$username,$password) or die("Can't connect to db");
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "resumemaker";
 
-	
-	$dbSelect=mysqli_select_db($conn,'resumemaker');
-	
-	//$sql="Create Database uidai if not exist";
+
+
+$conn = mysqli_connect($servername, $username, $password, $dbname);
+// Check connection
+if (!$conn) {
+    die("Connection failed: " . mysqli_connect_error());
+}
+
 ?>

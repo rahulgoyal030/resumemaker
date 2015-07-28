@@ -73,9 +73,16 @@
 
 </form>
 </div>
+
 	
 
 </div>
+
+<div >
+<button type="submit"  id="logout" >logout</button>
+</div>
+
+
 <script type="text/javascript" src="js/myApp.js"></script>
 <script type="text/javascript" src="js/controllers/controller.js"></script>
 
