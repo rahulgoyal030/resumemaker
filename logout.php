@@ -1,5 +1,5 @@
-<?php 
- 
+<?php
+
 
  $servername = "localhost";
 $username = "root";
@@ -12,10 +12,11 @@ if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
 
-	
+
 	session_start();
 	if(isset($_SESSION['sesName']))
 	{
+		//echo "<p>fdsjn</p>" ;
 		unset($_SESSION['sesName']);
 		//$_SESSION['sesName']="a";
 		header('location: index.php');
@@ -29,5 +30,5 @@ if (!$conn) {
 
 	mysqli_close($conn);
 
-	
+
 ?>

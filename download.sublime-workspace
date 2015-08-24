@@ -1,0 +1,778 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"y",
+				"y_axis_initial"
+			],
+			[
+				"Se",
+				"SetY"
+			],
+			[
+				"se",
+				"session_commit"
+			],
+			[
+				"us",
+				"username1"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"username",
+				"username1"
+			],
+			[
+				"res",
+				"resumemaker"
+			],
+			[
+				"loca",
+				"Location"
+			],
+			[
+				"lo",
+				"logout"
+			],
+			[
+				"p",
+				"preventDefault"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"re",
+				"resume"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"Nul",
+				"is_null"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pr",
+				"projectDetail"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"pro",
+				"projectName"
+			],
+			[
+				"new",
+				"newProjects"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"d",
+				"diolog"
+			],
+			[
+				"gt",
+				"getElementById"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ob",
+				"objective"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"s",
+				"service1"
+			],
+			[
+				"fl",
+				"flag4"
+			],
+			[
+				"fla",
+				"flag1"
+			],
+			[
+				"level",
+				"levelCheck"
+			],
+			[
+				"le",
+				"level1"
+			],
+			[
+				"var",
+				"varname"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"fi",
+				"fin"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"ch",
+				"ch2"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"va",
+				"valueS"
+			],
+			[
+				"spe",
+				"speedConstant"
+			],
+			[
+				"val",
+				"valueS"
+			],
+			[
+				"sp",
+				"speedConstant"
+			],
+			[
+				"eve",
+				"Event"
+			],
+			[
+				"mo",
+				"MOUSEUP"
+			],
+			[
+				"ev",
+				"Event"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"ti",
+				"timer"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"ff",
+				"FFCC00"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"pi",
+				"position"
+			],
+			[
+				"pass",
+				"pass1"
+			],
+			[
+				"pas",
+				"pass1"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"post",
+				"postPosition"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"text",
+				"textArea"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ke",
+				"KeyEvent"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"rb",
+				"rb2"
+			],
+			[
+				"JF",
+				"JFileChooser"
+			],
+			[
+				"set",
+				"setForeColor"
+			],
+			[
+				"add",
+				"addActionListener"
+			],
+			[
+				"pa",
+				"paste"
+			],
+			[
+				"a",
+				"addMouseListener"
+			],
+			[
+				"A",
+				"addMouseListener"
+			],
+			[
+				"jme",
+				"JMenuItem"
+			],
+			[
+				"j",
+				"JMenu"
+			],
+			[
+				"e",
+				"e1"
+			],
+			[
+				"jm",
+				"JMenuItem"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"S",
+				"score"
+			],
+			[
+				"ran",
+				"randInt"
+			],
+			[
+				"ra",
+				"rather"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"lop",
+				"loop"
+			],
+			[
+				"pos",
+				"posValue"
+			],
+			[
+				"x",
+				"x-4"
+			],
+			[
+				"score",
+				"scoreValue"
+			],
+			[
+				"sco",
+				"scoreValue"
+			],
+			[
+				"wh",
+				"WHITE"
+			],
+			[
+				"car",
+				"car"
+			],
+			[
+				"flag",
+				"flag3"
+			],
+			[
+				"ca",
+				"carNo"
+			],
+			[
+				"th",
+				"three"
+			],
+			[
+				"f",
+				"f"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/index.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/testmysql.php",
+		"/C/xampp/htdocs/resumemaker/index.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/logout.php",
+		"/C/xampp/htdocs/khoj/check.php",
+		"/C/xampp/htdocs/khoj/level1.php",
+		"/C/xampp/htdocs/khoj/index.js",
+		"/C/xampp/htdocs/khoj/index.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/collegeLoginCheck.php",
+		"/C/xampp/htdocs/resumemaker/fpdf.php",
+		"/C/xampp/htdocs/resumemaker/js/preventDefault.js",
+		"/C/xampp/htdocs/myWeb/index.js",
+		"/C/xampp/htdocs/myWeb/index.html",
+		"/C/xampp/htdocs/myWeb/js/prefixfree.min.js",
+		"/C/xampp/htdocs/resumemaker/js/showsignup.js",
+		"/C/xampp/htdocs/resumemaker/css/style1.css",
+		"/C/xampp/htdocs/resumemaker/css/signup.css",
+		"/C/xampp/htdocs/angular/app.js",
+		"/C/xampp/htdocs/angular/controller/controller.js",
+		"/C/xampp/htdocs/angular/services/service1.js",
+		"/C/xampp/htdocs/myWeb/signupAction.php",
+		"/C/xampp/htdocs/myWeb/login.php",
+		"/C/xampp/htdocs/myWeb/signUp.php",
+		"/C/xampp/htdocs/angular/index.html",
+		"/C/xampp/htdocs/project/projectlogin.php",
+		"/C/xampp/htdocs/forum/form20.htm",
+		"/C/xampp/htdocs/khoj/style.css",
+		"/C/xampp/htdocs/angular/style.css",
+		"/C/Users/HP/Desktop/demo/js/jquery-1.10.2.min.js",
+		"/C/xampp/htdocs/resumemaker/js/signup.js",
+		"/C/xampp/htdocs/myWeb/signup.js",
+		"/C/xampp/htdocs/myWeb/css/signup.css",
+		"/C/xampp/htdocs/myWeb/css/style.css",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/HP/findmatch/index.php",
+		"/C/xampp/htdocs/project/loginstyle.css",
+		"/C/xampp/htdocs/htmlgame/he.html",
+		"/C/xampp/htdocs/htmlgame/he.js",
+		"/C/Users/HP/Desktop/hackathon/manifest.yml",
+		"/C/xampp/htdocs/angular/service1.js",
+		"/C/xampp/htdocs/angular/controller.js",
+		"/C/Users/HP/Desktop/demo/index.html",
+		"/C/Users/HP/findmatch/style.css",
+		"/C/xampp/htdocs/khoj/level3.php",
+		"/C/xampp/htdocs/khoj/check2.php",
+		"/C/xampp/htdocs/khoj/level2.php",
+		"/C/xampp/htdocs/khoj/design.css",
+		"/C/xampp/htdocs/myWeb/post.php",
+		"/C/xampp/htdocs/myWeb/news.php",
+		"/C/xampp/htdocs/he.html",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/loadProfile.php",
+		"/C/xampp/htdocs/myWeb/css/news1.css",
+		"/C/xampp/htdocs/myWeb/news.css",
+		"/E/docs/java/file/mkdir.java",
+		"/E/docs/java/file/inputRead.java",
+		"/E/docs/java/file/readWrite.java",
+		"/C/Users/HP/Desktop/hackathon/index.php",
+		"/C/Users/HP/Desktop/hackathon/style.css",
+		"/C/Users/HP/Desktop/hackathon/composer.json",
+		"/C/Users/HP/Desktop/hackathon/README.txt",
+		"/C/Users/HP/Desktop/hackathon/README.md",
+		"/C/Users/HP/Desktop/check.cpp",
+		"/C/Users/HP/Desktop/file.cpp",
+		"/C/Users/HP/Desktop/he.cpp",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/loadSuggestion.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/collegeCheck.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/schoolAdd.html",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/busLoginCheck.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/checkPrevious.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/college.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/addDetails.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/index3.html",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/indextemp.html",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/schoolModify.php",
+		"/E/docs/java/frameset.java",
+		"/E/docs/java/bankarray.java",
+		"/C/xampp/htdocs/Gmap.html",
+		"/C/xampp/htdocs/abc/css/style.css",
+		"/C/xampp/htdocs/abc/index.html",
+		"/C/xampp/htdocs/abc/login.php",
+		"/C/xampp/htdocs/popup/data/contact.php",
+		"/C/xampp/htdocs/popup/js/jquery.simplemodal.js",
+		"/C/xampp/htdocs/popup/js/jquery.js",
+		"/C/xampp/htdocs/popup/js/contact.js",
+		"/C/xampp/htdocs/popup/index.html",
+		"/C/Users/HP/Desktop/log-in/css/style.css",
+		"/C/Users/HP/Desktop/log-in/index.html",
+		"/C/xampp/htdocs/myWeb/signup.css",
+		"/C/Users/HP/Desktop/login/index.html",
+		"/C/Users/HP/Desktop/login/css/style.css",
+		"/C/Users/HP/Desktop/login/config.rb",
+		"/C/Users/HP/Desktop/LoginRegistrationForm/LoginRegistrationForm/index2.html",
+		"/C/Users/HP/Desktop/LoginRegistrationForm/LoginRegistrationForm/index.html",
+		"/E/docs/games/snake/snake.java",
+		"/C/Users/HP/Desktop/mini.cpp",
+		"/C/xampp/htdocs/project1/login.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/verifyAadhar.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/verifyAcademics.php",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/uidai.sql",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/verifyAadar.php",
+		"/C/xampp/htdocs/web/post.php",
+		"/C/xampp/htdocs/web/news1.css",
+		"/C/xampp/htdocs/web/news.css",
+		"/C/xampp/htdocs/web/news.php",
+		"/C/xampp/htdocs/web/index.html",
+		"/C/xampp/htdocs/web/login.php",
+		"/C/xampp/htdocs/web/index.php",
+		"/C/xampp/htdocs/web/css/style.css",
+		"/C/xampp/htdocs/web/style.css",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/js/selectFx.js",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/js/classie.js",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/js/cbpSplitLayout.js",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/js/modernizr.custom.js",
+		"/C/xampp/htdocs/abc/forum1.css",
+		"/C/xampp/htdocs/abc/forum.html",
+		"/C/xampp/htdocs/web/js/prefixfree.min.js",
+		"/C/Users/HP/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/abc/js/index.js",
+		"/E/docs/java/awt/menu.java",
+		"/C/xampp/htdocs/abc/forum.js",
+		"/C/xampp/htdocs/abc/form1.js",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/css/component.css",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/css/normalize.css",
+		"/C/Users/HP/Desktop/hack/ffe2222aadhar/css/demo-select.css",
+		"/C/xampp/htdocs/a/calm-breeze-login-screen/index.html",
+		"/C/xampp/htdocs/a/calm-breeze-login-screen/login.php",
+		"/C/Users/HP/Desktop/PROJECT/calm-breeze-login-screen/css/style.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$(\"#logout\").click(function(event){\n     event.preventDefault();\n     window.location=\"logout.php\";\n\n\n   });\n",
+			"if(is_null($result))\n{\n   $pdf->Cell(10, 6, 'NAdjdnjfjkdnME', 1, 5, 'L', 1);   // to check reult value\n   \n}",
+			"if(!is_null($row))\n   {\n      $pdf->Cell(100, 12, 'NAdjd', 1, 0, 'L', 1);\n \n   }",
+			" $pdf->SetY($y_axis_initial);\n        $pdf->SetX(25);\n        $pdf->Cell(30, 6, 'CODE', 1, 0, 'L', 1);\n        $pdf->Cell(100, 6, 'NAME', 1, 0, 'L', 1);\n        $pdf->Cell(30, 6, 'PRICE', 1, 0, 'R', 1);",
+			"$sql = \"INSERT INTO `resume`(`id`, `name`, `degree`, `email`, `phone`, `dob`, `college`, `objective`, `skills`, `interest`, `projectName`, `details`)\n VALUES (NULL,'$_POST[name]','$_POST[degree]','$_POST[email]','$_POST[phone]','$_POST[dob]','$_POST[college]','$_POST[objective]',\n 	'$_POST[skill]','$_POST[interest]','$_POST[projectName]','$_POST[projectDetail]')\";\n\nmysqli_query($conn, $sql);",
+			"* {\n    padding: 0;\n    margin: 0;\n}\n",
+			"//     class: 'projectDetail',\n    //     placeholder : \" write project details here\",\n        \n    //     name : \"projectDetail\"\n        \n    //     }),$('<br>',{}),\n  	\n",
+			" $('<textarea />', {\n        class: 'projectDetail',\n        placeholder : \" write project details here\",\n        \n        name : \"projectDetail\"\n        \n        }),$('<br>',{}),\n  	",
+			"//   var diolog = document.getElementById('signDiolog');\n\n  //   diolog.hideModel();\n\n  //   // body...\n  // });\n	",
+			"$('#close').click(function  () {\n    \n    var diolog = document.getElementById('signDiolog');\n\n    diolog.hideModel();\n\n    // body...\n  });",
+			"     \n",
+			"}*/",
+			"#degree,#phone{\n	margin-left:  60px;\n}",
+			"app.factory('service1',function  () {\n\n      \n     var show = function  (argument) {\n     	// body...\n     	return 4;\n     } \n     // this.show= function  ($window) {\n     // 	// body...\n     	\n     // 	console.log(\" this \" + this);\n     // 	 return $window.alert(\"hello\");\n     // } \n	\n});\n",
+			" this.show= function  ($window) {\n     	// body...\n     	\n     	console.log(\" this \" + this);\n     	 return $window.alert(\"hello\");\n     } ",
+			"app.factory('service1',function  () {\n\n      \n     this.show= function  ($window) {\n     	// body...\n     	\n     	console.log(\" this \" + this);\n     	 return $window.alert(\"hello\");\n     } \n	// body...\n});",
+			" \n",
+			" response.first_name + response.id +  \"  \" + response.email",
+			"// var varname = '<?php echo $_SESSION[\"count\"]; ?>';\n         \n       //  var levelCheck= \"level\"+varname+\".php\";\n\n\n     // window.open(levelCheck,\"_self\");\n\n",
+			"  console.log('Successful login for: ... ' + response.name  + response.first_name + response.id +  \"  \" + response.emal);\n     // var varname = '<?php echo $_SESSION[\"count\"]; ?>';\n         \n       //  var levelCheck= \"level\"+varname+\".php\";\n\n\n     // window.open(levelCheck,\"_self\");",
+			" if(i%2==1)\n  	$(this).animate({width:'53'},1500);\n    else\n    $(this).animate({width:'212'},1500);\n\n\n    i++;\n    \n",
+			"text-align: right;",
+			"// FileInputStream fin = new FileInputStream(\"hell.txt\");\n\n        // int size= fin.available();\n\n        // byte b = new byte[size];\n\n        // String s= new String(b);\n\n\n        // System.out.println(s);\n\n        // fin.close();\n",
+			" FileInputStream fin = new FileInputStream(\"hell.txt\");\n\n        int size= fin.available();\n\n        byte b = new byte[size];\n\n        String s= new String(b);\n\n\n        System.out.println(s);\n\n        fin.close();",
+			" File fn[]=f.listFiles();\n\n        for(File ff: fn)\n        {\n\n        	System.out.println(ff.getName());\n\n        	System.out.println(ff.getPath());\n        }",
+			"f2.delete();\n        f1.delete();\n        f.delete();",
+			"		\n",
+			"File f= new  File(\"a2\");\n\n	//	f.createNewFile();\n\n        f.mkdir();\n\n        File f1= new File(f,\"myfile.txt\");\n\n        f1.createNewFile();\n		System.out.println(\" file exists \" + f.exists()  + \"  \" + f.isDirectory() + \"  \" + f.isFile());\n\n		",
+			"  \n",
+			"<script type=\"text/javascript\" src=\"http://egorkhmelev.github.com/jslider/plugins/google-code-prettify/prettify.js\"></script>\n  <script type=\"text/javascript\" src=\"http://egorkhmelev.github.com/jslider/js/jquery.slider.min.js\"></script>\n  <script type=\"text/javascript\" src=\"http://egorkhmelev.github.com/jslider/js/main.js\"></script>\n",
+			"moven",
+			"moveene",
+			"border: 1px solid #FFCC00 ;\n	background: transparent;",
+			";*/",
+			"border: 1px solid #FFCC00 ;\n	border-radius: 5px ;",
+			"top: 240px;\n    left: 250px;\n    position: absolute;\n    \n	width: 500px;\n	height: 300px;\n	border: 1px solid #FFCC00 ;\n	background: transparent;",
+			"/*padding: 4px;\n	margin-top: 10px;*/",
+			"padding: 4px;\n	margin-top: 10px;",
+			"border: 1px solid rgba(255,255,255,0.6);\n	border-radius: 2px;",
+			"/*.body{\n	position: absolute;\n	top: -20px;\n	left: -20px;\n	right: -40px;\n	bottom: -40px;\n	width: auto;\n	height: auto;\n	background-image: url(\"bg.jpg\");\n	background-size: cover;\n	\n	z-index*/: 0;\n}",
+			".body{\n	position: absolute;\n	top: -20px;\n	left: -20px;\n	right: -40px;\n	bottom: -40px;\n	width: auto;\n	height: auto;\n	background-image: url(\"bg.jpg\");\n	background-size: cover;\n	\n	z-index",
+			"\n	margin: 0;\n	padding: 0;\n	background: #fff;\n\n	color: #fff;\n	font-family: Arial;\n	font-size: 12px;\n",
+			"function statusChangeCallback(response) {\n    console.log('statusChangeCallback');\n    console.log(response);\n    // The response object is returned with a status field that lets the\n    // app know the current login status of the person.\n    // Full docs on the response object can be found in the documentation\n    // for FB.getLoginStatus().\n    if (response.status === 'connected') {\n      // Logged into your app and Facebook.\n      testAPI();\n    } else if (response.status === 'not_authorized') {\n      // The person is logged into Facebook, but not your app.\n      document.getElementById('status').innerHTML = 'Please log ' +\n        'into this app.';\n    } else {\n      // The person is not logged into Facebook, so we're not sure if\n      // they are logged into this app or not.\n      document.getElementById('status').innerHTML = 'Please log ' +\n        'into Facebook.';\n    }\n  }",
+			"/*::-webkit-input-placeholder{\n   color: rgba(173, 222, 239,0.6);\n}\n\n::-moz-input-placeholder{\n   color: rgba(173, 222, 239,0.6);\n}*/\n",
+			"::-webkit-input-placeholder{\n   color: rgba(255,255,255,0.6);\n}\n\n::-moz-input-placeholder{\n   color: rgba(255,255,255,0.6);\n}",
+			"  display: block;\n",
+			".login-card button[type=submit] {\n  width: 100%;\n  display: block;\n  margin-bottom: 10px;\n  position: relative;\n}",
+			"  background: url(http://ginva.com/wp-content/uploads/2012/07/city-skyline-wallpapers-008.jpg) no-repeat center center fixed; \n",
+			"-webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: cover;",
+			"      // <script src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>\n",
+			"    <input type=\"submit\" name=\"login\" class=\"login login-submit\" value=\"SignUp\">\n",
+			"   <!-- <button type=\"submit\" name=\"button\" class=\"login login-submit\"  id=\"button\">signUp</button> -->\n",
+			"<!--  <input type=\"submit\" name=\"login\" class=\"login login-submit\" value=\"SignUp\"> -->",
+			"<button type=\"submit\" name=\"button\" class=\"login login-submit\"  id=\"button\">signUp</button>",
+			" <input type=\"submit\" name=\"login\" class=\"login login-submit\" value=\"SignUp\">",
+			"$(document).ready(function  () {\n $(\"#signUp\").before(\"<p>new here signUp here ! </p>\");\n 	// body...\n\n});\n",
+			"/*	left: -20px;*/\n",
+			"	/*left*/: -20px;",
+			"left",
+			"// 		\"gender\"=>\"male\",\n    // 		\"address-format\"=>\"freetext\",\n    // 		\"address-freetext\"=>array(\n    //   		\"matching-strategy\"=>\"partial\",\n    //   		\"matching-value\"=>\"70\",\n    //   		\"address-value\"=>$_POST['address'];\n    // 			)\n   	// 		),\n  		// \"location\"=>array(\n    // 		\"type\"=>\"pincode\",\n    // 		\"pincode\"=>\"121106\"\n  		// 	),",
+			"	\"gender\"=>\"male\",\n    		\"address-format\"=>\"freetext\",\n    		\"address-freetext\"=>array(\n      		\"matching-strategy\"=>\"partial\",\n      		\"matching-value\"=>\"70\",\n      		\"address-value\"=>$_POST['address'];\n    			)\n   			),\n  		\"location\"=>array(\n    		\"type\"=>\"pincode\",\n    		\"pincode\"=>\"121106\"\n  			),",
+			" // 		\"gender\"=>\"male\",\n  //   // 		\"address-format\"=>\"freetext\",\n  //   // 		\"address-freetext\"=>array(\n  //   //   		\"matching-strategy\"=>\"partial\",\n  //   //   		\"matching-value\"=>\"70\",\n  //   //   		\"address-value\"=>$_POST['address'];\n  //   // 			)\n  //  	// 		),\n  // 		// \"location\"=>array(\n  //   // 		\"type\"=>\"pincode\",\n  //   // 		\"pincode\"=>\"121106\"\n  // 		// 	),\n		// )",
+			" // 		\"gender\"=>\"male\",\n    // 		\"address-format\"=>\"freetext\",\n    // 		\"address-freetext\"=>array(\n    //   		\"matching-strategy\"=>\"partial\",\n    //   		\"matching-value\"=>\"70\",\n    //   		\"address-value\"=>$_POST['address'];\n    // 			)\n   	// 		),\n  		// \"location\"=>array(\n    // 		\"type\"=>\"pincode\",\n    // 		\"pincode\"=>\"121106\"\n  		// 	),\n		)",
+			"),\n",
+			"\"gender\"=>\"male\",\n    		\"address-format\"=>\"freetext\",\n    		\"address-freetext\"=>array(\n      		\"matching-strategy\"=>\"partial\",\n      		\"matching-value\"=>\"70\",\n      		\"address-value\"=>$_POST['address'];\n    			)\n   			),\n  		\"location\"=>array(\n    		\"type\"=>\"pincode\",\n    		\"pincode\"=>\"121106\"\n  			),",
+			"in</h1>\n<form action=\"\" method=\"POST\">\n    <p><label>User Name : </label>\n	<input id=\"username\" type=\"text\" name=\"username\" placeholder=\"username\" /></p>\n \n     <p><label>Password&nbsp;&nbsp; : </label>\n	 <input id=\"password\" type=\"password\" name=\"password\" placeholder=\"password\" /></p>\n \n    <a class=\"b",
+			"head>\n<title>CodingCyber - Simple Login Script</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\" />\n</head>\n<body",
+			"if (isset($_SESSION['username'])){\n$username = $_SESSION['username'];\necho \"Hai \" . $username . \"\n\";\necho \"This is the Members Area\n\";\necho \"<a href='logout.php'>Logout</a>\";\n ",
+			"htm",
+			"car"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "download.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
